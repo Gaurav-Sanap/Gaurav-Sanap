@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav-Sanap
 - 👀 I’m interested in solving code base problems
-- 🌱 I’m currently learning python and wab development
+- 🌱 I’m currently learning python and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
